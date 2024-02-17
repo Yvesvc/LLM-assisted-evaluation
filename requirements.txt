@@ -1,0 +1,10 @@
+langchain==0.1.5
+dotenv==0.0.5
+langchain_openai==0.0.5
+langchain-community==0.0.17
+azure-identity==1.15.0
+faiss-cpu==1.7.4
+ragas==0.1.0
+langchainhub==0.1.14
+trulens_eval==0.22.1
+deepeval==0.20.63
