@@ -2,7 +2,7 @@
 # LLM-Assisted Evaluation
 
 This repo provides a quickstart to build your own LLM-assisted evaluation. More specifically, it features 3 examples using the RAGAS, TruLens and DeepEval frameworks.
-If you want to read more about this subject, please check out the article I wrote.
+If you want to read more about this subject, please check out the article I wrote https://medium.com/@yvesvancraenendonck/how-to-evaluate-your-chatbot-a21bc4191bcb.
 
 
 ## How to run the examples
